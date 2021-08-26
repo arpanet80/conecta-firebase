@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468098453290",
+    "project_id": "taxiseguro-c61ba",
+    "storage_bucket": "taxiseguro-c61ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468098453290:android:db463d28f77edf765bd853",
+        "android_client_info": {
+          "package_name": "com.devdante.firebaseconecta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468098453290-k4rp45rgk9c923l0ummo9stf2kugrot4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWk2Ea4bm57iWvyAczJ4tyFBgGYrk5Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468098453290-k4rp45rgk9c923l0ummo9stf2kugrot4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
